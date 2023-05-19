@@ -3,7 +3,7 @@ import './App.css';
 
 const App = () => {
   return (
-    <div>Apaaavssp</div>
+    <div>App</div>
   )
 }
 
