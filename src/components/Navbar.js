@@ -2,7 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import { Stack } from '@mui/material';
 
-import Logo from '../assets/images/Logo.png';
+// import Logo from '../assets/images/Logo.png';
 import Logo1 from '../assets/images/Logo1.png';
 
 const Navbar = () => {
